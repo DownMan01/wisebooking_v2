@@ -1,0 +1,19 @@
+.h-font{
+    font-family: "Pacifico", cursive;
+   }
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+   margin: 0;
+}
+input[type=number]{
+   -moz-appearance: textfield;
+}
+.custom-bg{
+   background-color: #22eea0;
+   border: 1px solid #22eea0;
+}
+.custom-bg:hover{
+   background-color: #22eea0;
+   border-color: #22eea0;
+}
